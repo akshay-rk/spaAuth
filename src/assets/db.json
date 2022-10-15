@@ -1,0 +1,21 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "Akshay",
+      "doj": "10/10/2010",
+      "salary": 2000000,
+      "email": "knr@gmail.com"
+    }
+  ],
+  "user": [
+    {
+      "name": "est",
+      "password": "ests",
+      "gender": "2",
+      "state": "1",
+      "phone": "segsas",
+      "id": 1
+    }
+  ]
+}
